@@ -1,0 +1,10 @@
+# Curiosity Corner
+A Java practice repository containing daily coding exercises and problem-solving programs to improve programming skills.
+ #geekstreak60 series 
+
+## Files
+- gfgDay1.java
+- gfgDay2.java
+
+## Author
+Gayatri Jadhav
