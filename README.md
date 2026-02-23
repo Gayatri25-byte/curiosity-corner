@@ -10,6 +10,7 @@ A Java practice repository containing daily coding exercises and problem-solving
 - gfgDay5.java
 - gfgDay6.java
 - gfgDay7.java
+- gfgDay8.java
 
 ## Author
 Gayatri Jadhav
