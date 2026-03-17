@@ -32,6 +32,7 @@ A Java practice repository containing daily coding exercises and problem-solving
 - gfgDay27.java
 - gfgDay28.java
 - gfgDay29.java
+- gfgDay30.java
 
 ## Author
 Gayatri Jadhav
